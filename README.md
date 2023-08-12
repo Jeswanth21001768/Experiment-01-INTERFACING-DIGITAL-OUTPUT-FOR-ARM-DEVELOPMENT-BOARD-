@@ -182,12 +182,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 Led Off:
 ```
-![Alt text](<WhatsApp Image 2023-08-11 at 16.19.19.jpg>)
+![image](https://github.com/Jeswanth21001768/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94155480/602cabd7-6659-42ad-b090-256b67498b95)
+
 ```
 Led ON:
 ```
-![Alt text](<WhatsApp Image 2023-08-11 at 16.19.20.jpg>)
-g
+![image](https://github.com/Jeswanth21001768/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94155480/45369b90-1408-44c5-9bf5-708ccf857b3a)
+
+
 
  
  
